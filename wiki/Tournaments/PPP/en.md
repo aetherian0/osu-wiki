@@ -1,7 +1,5 @@
-# {SERIES_TITLE}
+# Pint-Sized Precision Pyramid
 
-Index page for all of the {SERIES_TITLE} series.
+Index page for all of the Pint-Sized Precision Pyramid series.
 
-- [{TITLE}]({ITERATION_DIRECTORY})
-
-<!-- List the tournaments available in the directory chronologically -->
+- [Pint-Sized Precision Pyramid](2024)

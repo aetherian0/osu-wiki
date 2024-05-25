@@ -35,25 +35,24 @@ The **Pint-Sized Precision Pyramid** (**_PPP_**) is a 1v1 osu!standard double-el
 
 ## Organisation
 
-The {TITLE} is run by various community members.
+The Pint-Sized Precision Pyramid is run by various community members.
 
-| Position         | Member(s) |
-| :--------------- | :-------- |
-| Manager          |           |
-| Mappool selector |           |
-| Streamer         |           |
-| Commentator      |           |
-| Designer         |           |
-| Referee          |           |
-| Statistician     |           |
-
-<!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
+| Position         | Member(s)                                                                                                                      |
+| :--------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| Host             | ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736), ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687) |
+| Mappool selector |                                                                                                                                |
+| Custom mapper    |                                                                                                                                |
+| Streamer         |                                                                                                                                |
+| Commentator      |                                                                                                                                |
+| Graphic design   |                                                                                                                                |
+| Referee          |                                                                                                                                |
+| Playtester       |                                                                                                                                |
 
 ## Links
 
-- [Discussion thread]({THREAD_LINK})
-- [Livestream]({LIVESTREAM_LINK})
-- **[Statistics sheet]({SHEET_LINK})**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1920791?n=1)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/12fKhchBLXrLZO_Re6vrFobqol-RMRw8HSiyHpHNMdqU/edit?usp=sharing)
+- [Livestream](https://www.twitch.tv/solacetournaments)
 
 ## Participants
 

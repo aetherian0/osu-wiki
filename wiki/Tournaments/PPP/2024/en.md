@@ -5,26 +5,22 @@ tags:
 
 # Pint-Sized Precision Pyramid
 
-![{SHORT_TITLE} logo](img/logo.png) <!-- replace "logo" with "banner" if that suits the image better -->
+![PPP logo](img/banner.png)
 
-The **{TITLE}** (**_{SHORT_TITLE}_**) is a <!-- enter applicable tournament traits, example: {N}v{N}, double-elimination, country-based --> {MODE} tournament hosted by {ORGANISERS} <!-- list the organisers here with their flags -->. It is the {ITERATION_ORDINAL} instalment of the {SERIES_TITLE}.
+The **Pint-Sized Precision Pyramid** (**_PPP_**) is a 1v1 osu!standard double-elimination tournament hosted by ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736) & ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687). It is the first instalment of the Pint-Sized Precision Pyramid.
 
 ## Tournament schedule
 
-|              Event | Timestamp                |
-| -----------------: | :----------------------- |
-| Registration phase | 2018-01-01/2018-01-28    |
-|      Live drawings | 2018-01-29 ({DRAW_TIME}) |
-|        Group stage |                          |
-|        Round of 16 |                          |
-|      Quarterfinals |                          |
-|         Semifinals |                          |
-|      Finals week 1 |                          |
-|      Finals week 2 |                          |
-
-<!-- Use the YYYY-MM-DD format for dates e.g. 2018-01-01
-Use (HH:MM UTC+N) format for {DRAW_TIME} e.g. (12:00 UTC+07)
- -->
+|              Event | Timestamp             |
+| -----------------: | :-------------------- |
+| Registration phase | 2024-05-11/2024-05-24 |
+|         Qualifiers | 2024-06-8/2024-06-9   |
+|        Round of 32 | 2024-06-15/2024-06-16 |
+|        Round of 16 | 2024-06-22/2024-06-23 |
+|      Quarterfinals | 2024-06-29/2024-06-30 |
+|         Semifinals | 2024-07-06/2024-07-07 |
+|             Finals | 2024-07-13/2024-07-14 |
+|       Grand Finals | 2024-07-20/2024-07-21 |
 
 ## Prizes
 

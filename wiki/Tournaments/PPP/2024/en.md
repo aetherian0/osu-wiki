@@ -57,10 +57,12 @@ The Pint-Sized Precision Pyramid is run by various community members.
 
 <!-- for 1v1 tournaments -->
 
-| Seed   | Members |
-| :----- | :------ |
-| Top    |         |
-| Middle |         |
+| Seed  | Members |
+| :---- | :------ |
+| 1-8   |         |
+| 9-16  |         |
+| 17-24 |         |
+| 25-32 |         |
 
 <!-- remove the following section if seeding was displayed above -->
 

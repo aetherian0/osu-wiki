@@ -55,13 +55,6 @@ The Pint-Sized Precision Pyramid is run by various community members.
 
 ## Participants
 
-<!-- for team/country-based tournaments -->
-
-|     | Country | Members |
-| :-: | :-----: | :------ |
-|     |         |         |
-|     |         |         |
-
 <!-- for 1v1 tournaments -->
 
 | Seed   | Members |

@@ -89,9 +89,25 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **Beatmap**
 
-<!-- tiebreaker beatmaps must be bolded
+### Qualifiers
 
-If the mappool doesn't use a standard ModType pool structure, alternative titles may be used instead. -->
+- NM
+  1. [Neutral Milk Hotel - Holland, 1945 (i shot my son) [White Roses]](https://osu.ppy.sh/b/2226025)
+  2. [NIWASHI - The Fascinating Cat's Eye (fanzhen0019) [drowned in the garden]]()
+  3. [Taku Inoue - Yoake made Ato 3 Byou (Nerova Riuz GX) [Dawn]]()
+  4. [Tipper - Apex Of The Vortex (verychill) [Vortex]]()
+- HT
+  1. [Toromaru - Enigma II (bob) [chill's LIVID]]()
+- HR
+  1. [BUTAOTOME - In the Black (Luscent) [Delis' Extra]]()
+  2. [Carpool Tunnel - Afterlight (\_Epreus) [squirrelp's Traffic Jam Dreams]]()
+  3. [The Beatles - Here Comes The Sun (stackerjoe) [Comfort]]()
+- DT
+  1. [Sufjan Stevens - Mystery of Love (jas) [I Remember Everything]]()
+  2. [Breaking Benjamin - The Diary of Jane (FCL) [Extra]]()
+  3. [Ice - L2 - Ascension : Act 2 (Liberation) (Okorin) [pishi's Insane 07/16]]()
+- DTHR
+  1. [Bloodhound Gang - Mope (Hitoshirenu Shourai) [Insane]]()
 
 ## Match results
 

@@ -109,15 +109,45 @@ Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 
 ## Ruleset
 
-<!-- organise the ruleset of your tournament here
-
-example header structure:
-
 ### General
-### Registration
-### Stages
-### Scheduling
+
+- This tournament is a 1v1 open rank double-elimination osu! tournament.
+- All matches will use Score V2 and NF will be enforced on every map.
+- All players have to treat staff members and all other players with a high level of respect. Any kind of mistreatment may result in being banned from the tournament.
+- Every player is required to join the tournament Discord server.
+
 ### Mappools
+
+- There will be a new mappool every week.
+- Mappools follow the following format:
+
+| Stage         | Maps                                         |
+| :------------ | :------------------------------------------- |
+| Qualifiers    | 4 NM, 3 HR, 3 DT, 1 HT, 1 DTHR               |
+| Round of 32   | 4 NM, 4 HR, 4 DT, 1 HT, 1 HTHR, 1 DTHR, 1 TB |
+| Round of 16   | 4 NM, 4 HR, 4 DT, 1 HT, 1 HTHR, 1 DTHR, 1 TB |
+| Quarterfinals | 5 NM, 4 HR, 4 DT, 1 HT, 2 HTHR, 1 DTHR, 1 TB |
+| Semifinals    | 5 NM, 4 HR, 4 DT, 1 HT, 2 HTHR, 1 DTHR, 1 TB |
+| Finals        | 5 NM, 4 HR, 4 DT, 1 HT, 2 HTHR, 2 DTHR, 1 TB |
+| Grand Final   | 5 NM, 4 HR, 4 DT, 1 HT, 2 HTHR, 2 DTHR, 1 TB |
+
+### Qualifiers
+
+- Each map will be played sequentially, in the order NM1-4, HT1, HR1-3, DT1-3, and DTHR1
+- Every player will use NoFail and ScoreV2 during qualifiers.
+- In the event of player disconnect, the map will be replayed after one cycle of the maps is complete for the player that disconnected.
+- In the event of a second disconnect, the player's score on that map will be counted as 0.
+- Qualifiers will determine seeding for the tournament: seed 1 vs. seed 32, seed 2 vs seed 31, etc.
+
 ### Match procedure
 
- -->
+- Each player will roll when the match starts. The player with a higher roll gets to decide pick or ban order.
+- The pick loser will decide the remaining order.
+- Players then ban in the order chosen. For each ban, they have 120 seconds.
+- After bans are done, whoever picks first will make their pick. They have 120 seconds to do so.
+- ScoreV2 and NoFail are forced on every map.
+- Players may choose to use HD on any map in the pool, but their score at the end of the map will be calculated as though they did not use the mod (dividing their score by 1.06).
+- Players alternate picks until they reach the match's designated point count (5 in rounds of 32 and 16, 6 in quarter- and semifinals, and 7 in finals and grand finals). In the event a player runs out their pick timer, the pick will go to the other player and the rest of the match's picks will be run as normal.
+- In the event that the score is tied and each player needs one additional point to win, the tiebreaker map will be played. This map allows for any mod in addition to the required NoFail.
+- Since this is a precision tournament, EZ cannot be used on tiebreakers.
+- In the event of a perfectly tied score, the map will be replayed.

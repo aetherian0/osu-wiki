@@ -24,11 +24,11 @@ The **Pint-Sized Precision Pyramid** (**_PPP_**) is a 1v1 osu!standard double-el
 
 ## Prizes
 
-|                          Placing                           | Prize(s)                                                           |
-| :--------------------------------------------------------: | :----------------------------------------------------------------- |
-|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | Profile banner, Profile badge (pending), 6 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner, 4 months of osu!supporter                          |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile banner, 2 months of osu!supporter                          |
+|                          Placing                           | Prize(s)                                                 |
+| :--------------------------------------------------------: | :------------------------------------------------------- |
+|   ![Gold crown](/wiki/shared/crown-gold.png "1st place")   | Profile banner, Profile badge, 6 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Profile banner, 4 months of osu!supporter                |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Profile banner, 2 months of osu!supporter                |
 
 ![](img/badge.jpg "{SHORT_TITLE} winner badge") <!-- remove if not available -->
 
